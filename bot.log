@@ -1,0 +1,9 @@
+2025-12-07 18:51:15,990 - root - INFO - Логи успешно настроены — теперь всё будет писаться в bot.log
+2025-12-07 18:52:54,946 - root - INFO - Логи успешно настроены — теперь всё будет писаться в bot.log
+2025-12-07 18:54:39,067 - root - INFO - Логи успешно настроены — теперь всё будет писаться в bot.log
+2025-12-07 18:54:39,236 - aiogram - INFO - Bot: botniger [@nieger_bot]
+2025-12-07 18:54:39,324 - aiogram - WARNING - Updates were skipped successfully.
+2025-12-07 18:54:39,325 - root - INFO - Tables created successfully.
+2025-12-07 18:54:39,326 - root - INFO - Tables created successfully.
+2025-12-07 18:54:39,326 - root - INFO - Бот запущен и готов к работе!
+2025-12-07 18:54:39,328 - aiogram.dispatcher.dispatcher - INFO - Start polling.
